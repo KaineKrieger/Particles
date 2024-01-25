@@ -334,6 +334,7 @@
 "Assets/Gems/Prefabs/RotateHover.cs"
 "Assets/Scripts/CameraFollow.cs"
 "Assets/Scripts/Movement.cs"
+"Assets/Scripts/PlayerControls.cs"
 "Assets/Scripts/SimpleCollectibleScript.cs"
 "Assets/Scripts/TruckControl.cs"
 -langversion:9.0
